@@ -21,7 +21,7 @@ const Navbar = () => {
                     }}
                 >
                     <img src={logo} alt="logo" className="w-9 h-9 object-contain" />
-                    <p className="text-white text-[18px] font-bold cursor-pointer">Adrian</p>
+                    <p className="text-white text-[18px] font-bold cursor-pointer">Judah</p>
                 </Link>
 
                 <ul className="list-none hidden sm:flex flex-row gap-10">
@@ -55,10 +55,6 @@ const Navbar = () => {
             </div>
         </nav>
     );
-    /**
-     * link : https://www.youtube.com/watch?v=0fYi8SGA20k
-     * last time watched : 26:20
-     */
 };
 
 export default Navbar;
