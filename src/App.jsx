@@ -6,7 +6,7 @@ const App = () => {
     return (
         /**
          * link : https://www.youtube.com/watch?v=0fYi8SGA20k
-         * last time watched : 1:07:30
+         * last time watched : 1:23:23
          */
         <BrowserRouter>
             <div className="relative z-0 bg-primary">
