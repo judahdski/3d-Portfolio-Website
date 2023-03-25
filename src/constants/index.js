@@ -146,24 +146,24 @@ const experiences = [
 
 const testimonials = [
     {
-        testimonial: 'I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.',
-        name: 'Sara Lee',
+        testimonial: 'I thought it was impossible to make a website as beautiful as our product, but Jhon Doe proved me wrong.',
+        name: 'Alex',
         designation: 'CFO',
-        company: 'Acme Co',
+        company: 'Dasurance',
         image: 'https://randomuser.me/api/portraits/women/4.jpg',
     },
     {
-        testimonial: "I've never met a web developer who truly cares about their clients' success like Rick does.",
-        name: 'Chris Brown',
-        designation: 'COO',
-        company: 'DEF Corp',
+        testimonial: "I've never met a web developer who truly cares about their clients' success like Jhon Doe does.",
+        name: 'Gustino',
+        designation: 'CEO',
+        company: 'Rumaha Project',
         image: 'https://randomuser.me/api/portraits/men/5.jpg',
     },
     {
-        testimonial: "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-        name: 'Lisa Wang',
+        testimonial: "After Jhon Doe optimized our website, our traffic increased by 50%. We can't thank them enough!",
+        name: 'Keren',
         designation: 'CTO',
-        company: '456 Enterprises',
+        company: 'Keren Enterprises',
         image: 'https://randomuser.me/api/portraits/women/6.jpg',
     },
 ];
